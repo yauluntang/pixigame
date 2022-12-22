@@ -31,7 +31,7 @@
     "pixi-fps": "^2.0.1",
     "pixi-spine": "^3.0.16",
     "pixi.js": "^6.5.1",
-    "regenerator-runtime": "^0.13.9"
+    "regenerator-runtime": "^0.13.11"
   },
   "devDependencies": {
     "@swc/core": "^1.2.222",
