@@ -1,0 +1,20 @@
+{
+  "TERRAIN_ROAD": {
+    "friction": 100,
+    "walkable": true,
+    "flyable": true,
+    "blockProjectile": false
+  },
+  "TERRAIN_SAND": {
+    "friction": 100,
+    "walkable": true,
+    "flyable": true,
+    "blockProjectile": false
+  },
+  "TERRAIN_DIRT": {
+    "friction": 110,
+    "walkable": true,
+    "flyable": true,
+    "blockProjectile": false
+  }
+}

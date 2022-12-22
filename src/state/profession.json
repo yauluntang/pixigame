@@ -1,0 +1,22 @@
+{
+  "PROFESSION_FIGHTER_M": {
+    "spriteFile": "actor1.png",
+    "spriteX": 0,
+    "spriteY": 0
+  },
+  "PROFESSION_FIGHTER_W": {
+    "spriteFile": "actor1.png",
+    "spriteX": 1,
+    "spriteY": 0
+  },
+  "PROFESSION_BRUTE_M": {
+    "spriteFile": "actor1.png",
+    "spriteX": 2,
+    "spriteY": 0
+  },
+  "PROFESSION_BRUTE_W": {
+    "spriteFile": "actor1.png",
+    "spriteX": 3,
+    "spriteY": 0
+  }
+}

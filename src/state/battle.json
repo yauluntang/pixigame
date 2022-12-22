@@ -1,0 +1,42 @@
+{
+  "teams": [
+    {
+      "name": "Player",
+      "playerControl": true
+    },
+    {
+      "name": "Nature",
+      "playerControl": false
+    }
+  ],
+  "characters": [
+    {
+      "name": "Alan",
+      "profession": "PROFESSION_FIGHTER_M",
+      "x": 1,
+      "y": 2,
+      "team": 0
+    },
+    {
+      "name": "Ala",
+      "profession": "PROFESSION_FIGHTER_W",
+      "x": 2,
+      "y": 2,
+      "team": 0
+    },
+    {
+      "name": "Al$",
+      "profession": "PROFESSION_BRUTE_M",
+      "x": 3,
+      "y": 2,
+      "team": 0
+    },
+    {
+      "name": "AlB",
+      "profession": "PROFESSION_BRUTE_W",
+      "x": 4,
+      "y": 2,
+      "team": 0
+    }
+  ]
+}
