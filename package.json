@@ -29,7 +29,7 @@
     "@pixi/layers": "^1.0.11",
     "core-js": "^3.24.1",
     "pixi-fps": "^2.0.1",
-    "pixi-spine": "^3.0.16",
+    "pixi-spine": "^4.0.1",
     "pixi.js": "^6.5.1",
     "regenerator-runtime": "^0.13.9"
   },
